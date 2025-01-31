@@ -15,6 +15,9 @@ ChestXpert is an AI-driven medical imaging project designed to analyze chest X-r
 
 The dataset is sourced from Kaggle's ChestXpert dataset, which contains labeled chest X-ray images for training and evaluation.
 
+<img width="933" alt="Screenshot 2025-01-31 at 8 23 46 PM" src="https://github.com/user-attachments/assets/1c9915a3-74ac-4bc3-a93f-227e70e49474" />
+
+
 ## Model Architecture
 
 - **ResNet50:** Pretrained on ImageNet and fine-tuned on the ChestXpert dataset.
